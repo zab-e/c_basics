@@ -4,7 +4,6 @@
 
 void run_code()
 {
-
     char input1;
     int input2; // number 1
     int input3; // number 2
@@ -74,3 +73,4 @@ int main()
     return 0;
 
 }
+
