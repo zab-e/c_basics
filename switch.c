@@ -1,7 +1,5 @@
 #include <stdio.h>
 
-
-
 void run_code()
 {
     char input1;
@@ -73,4 +71,5 @@ int main()
     return 0;
 
 }
+
 
