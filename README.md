@@ -6,6 +6,6 @@ Each project will live here so I can track my progress and have them in one plac
 ---
 
 
-## Author
+## BY
 
 GitHub: [github.com/zab-e](https://github.com/zab-e)
