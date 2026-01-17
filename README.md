@@ -5,11 +5,6 @@ Each project will live here so I can track my progress and have them in one plac
 
 ---
 
-## Projects
-
-*(I’ll be adding them here as I go.)*
-
----
 
 ## Author
 
